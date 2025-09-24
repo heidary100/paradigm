@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://paradaim.com/</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/services</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/services" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/services" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/works</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/works" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/works" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/team</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/team" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/team" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/articles</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/articles" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/articles" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/pricing</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/pricing" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/pricing" />
+  </url>
+  <url>
+    <loc>https://paradaim.com/contact</loc>
+    <lastmod>2025-01-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://paradaim.com/contact" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://paradaim.com/de/contact" />
+  </url>
+</urlset>
