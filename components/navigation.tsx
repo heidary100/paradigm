@@ -66,7 +66,7 @@ export function Navigation() {
           {/* Logo */}
           <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.95 }}>
             <Link href="/" className="flex items-center space-x-2">
-              <div className="text-2xl font-bold text-primary">Paradaim</div>
+              <div className="text-2xl font-bold text-primary">Paradigm</div>
             </Link>
           </motion.div>
 
